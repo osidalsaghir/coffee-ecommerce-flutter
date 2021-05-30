@@ -1,0 +1,4 @@
+#Sun May 30 14:53:15 EET 2021
+base.0=C\:\\Users\\OSID\\AndroidStudioProjects\\coffee_ecommerce\\Flutter-Coffee-Ecommerce-\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

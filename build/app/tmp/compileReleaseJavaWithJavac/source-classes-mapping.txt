@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/coffee_ecommerce/BuildConfig.java
+ com.example.coffee_ecommerce.BuildConfig
