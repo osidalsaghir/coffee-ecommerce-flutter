@@ -1,7 +1,5 @@
 import 'package:coffee_ecommerce/Components/page_title.dart';
-import 'package:coffee_ecommerce/Components/row_icon_btn.dart';
 import 'package:coffee_ecommerce/Theme/colors.dart';
-import 'package:coffee_ecommerce/main.dart';
 import 'package:flutter/material.dart';
 
 class Notifications extends StatefulWidget {

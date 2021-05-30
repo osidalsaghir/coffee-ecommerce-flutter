@@ -1,7 +1,6 @@
 import 'package:coffee_ecommerce/Components/page_title.dart';
 import 'package:coffee_ecommerce/Components/row_icon_btn.dart';
 import 'package:coffee_ecommerce/Theme/colors.dart';
-import 'package:coffee_ecommerce/main.dart';
 import 'package:flutter/material.dart';
 
 class Address extends StatefulWidget {
@@ -22,7 +21,6 @@ class _AddressState extends State<Address> {
   Widget build(BuildContext context) {
     var width = MediaQuery.of(context).size.width;
     var height = MediaQuery.of(context).size.height;
-    var wid2 = (width - (width / 6)) / 1.3;
     return Scaffold(
       body: Container(
         width: width,

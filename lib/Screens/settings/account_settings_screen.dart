@@ -12,7 +12,6 @@ class _AccountSettingsState extends State<AccountSettings> {
   Widget build(BuildContext context) {
     var width = MediaQuery.of(context).size.width;
     var height = MediaQuery.of(context).size.height;
-    var wid2 = (width - (width / 6)) / 1.3;
     return Scaffold(
       body: Container(
         width: width,

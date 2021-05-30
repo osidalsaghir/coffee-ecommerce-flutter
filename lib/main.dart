@@ -1,6 +1,5 @@
 import 'package:coffee_ecommerce/Components/menu-Components..dart';
 import 'package:coffee_ecommerce/Screens/shopping_screen.dart';
-import 'package:coffee_ecommerce/Theme/colors.dart';
 import 'package:flutter/material.dart';
 
 void main() {
